@@ -33,12 +33,5 @@ When I step away from the keyboard, I’m usually experimenting with new tools, 
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YASHKUMAR8&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=YASHKUMAR8&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASHKUMAR8&theme=dark&layout=compact)
-
----
 
 ![](https://visitcount.itsvg.in/api?id=YASHKUMAR8&icon=0&color=0)
