@@ -10,7 +10,7 @@ A Computer Science graduate & developer driven by curiosity and a passion for bu
 
 💻 **What I do**
 - Full-stack Web Development (Frontend + Backend)
-- Data Structures, Algorithms & System Design
+- Data Structures & Algorithms 
 - Building projects with Java, JavaScript, DBMS, MEAN stack, and more
 
 💬 **Ask me about**  
